@@ -241,26 +241,6 @@
          "mobile-device": false
       },
       {
-         "id": 2,
-         "name": "MercuryCars",
-         "link": "",
-         "description": "CRM-система. В работе",
-         "year": "2019 - ?",
-         "github-link": "",
-         "ready": false,
-         "mobile-device": false
-      },
-      {
-         "id": 3,
-         "name": "PlanKapkan",
-         "link": "",
-         "description": "Тайм-менеджер. В работе",
-         "year": "2016 - ?",
-         "github-link": "",
-         "ready": false,
-         "mobile-device": false
-      },
-      {
          "id": 4,
          "name": "Вёрстка «Суши Мастер»",
          "link": "https://isfomin.github.io/makeup/sushi/",
